@@ -2,7 +2,7 @@
 <br />
 
 <br />
-I am a graduate student working in Asia at the Landscape Ecology Group, Center for Integrative Conservation, XTBG, Chinese Academy of Sciences. My PhD project focuses on bats Systematic, Ecology and Evolution in particular for cryptic bats species by using acoustic, genetic and morphology.
+I am a graduate student working in Asia at the Landscape Ecology Group, Center for Integrative Conservation, XTBG, Chinese Academy of Sciences. My PhD project focuses on bats Systematic, Ecology and Evolution using acoustic, genetic and morphology.
 <br />
 
 <br />
