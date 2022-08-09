@@ -1,6 +1,6 @@
 ### Hi there!
 <br />
-I am a graduate student working in Asia. My Ph.D. project focuses on bats Systematic, Ecology and Evolution using acoustic, genetics, and morphology.
+I am a graduate student working in Asia. My Ph.D. project focuses on bats Systematics, Ecology and Evolution using acoustic, genetics, and morphology.
 <br />
 
 <br />
