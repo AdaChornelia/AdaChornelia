@@ -1,4 +1,4 @@
-## Hi there~~
+## Hi there~~ 
 ### Welcome to my happy place!
 <br />
 I just graduated from my PhD program (yayy) last June, 2022. Currently navigating my new life as postdoctoral fellows in School of Biological Sciences, the University of Hong Kong (HKU). I still continue my bat-related works in Asia, as a continous passion since undergrads and I have carrying it (and dragging it) along the (not so smooth) way till this stage. My Ph.D. project focuses on bats Systematics, Ecology and Evolution where I studies the systematic and evolution of cryptic species, species delimitation and delineation, evolutionary history and historical biogeography, estimating the ancestral traits and ancestral species ranges, and as well as bioacoustic, and the ecology of bats. Currently I am continuing my research to assess the bats movements using stable isotopes, dietary ecology and niche differentiation of morphologically uniform-sympatric species and the macroevolutionary of bats in general, as well as biogeography. Well, a bit here and there, and they are all exciting (also terrifying).
