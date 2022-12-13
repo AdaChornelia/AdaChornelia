@@ -5,7 +5,7 @@ I just graduated from my PhD program (yayy) last June, 2022. Currently navigatin
 <br />
 
 <br />
-However, I am still a learner, willing to learn about everything, trying to keep up with the latest advance statistical analyses and methodology in sciences. I am a self-taught on the data analyses and utilized this GitHub platform to stored all related packages and all related data analyses programs I use. One of my favorite analyses I am running so far is ancestral range estimation which implemented in R package BioGeoBEARS, and still expanding it to get better and robust result. Aside from that, I have been using a wide range of phylogenetic-related programs and species delimitations such as MAFFT, IQTREE, MrBAYES, BEAST, BPP, etc which are forked on this page for easy access as future references. Future excitement for me, personally, including bioinformatics analysis that will be stored in this page.  
+However, I am still a learner, willing to learn about everything, trying to keep up with the latest advance statistical analyses and methodology in sciences (the struggle is real). I am a self-taught on the data analyses and utilized this GitHub platform to stored all related packages and all related data analyses programs I use. One of my favorite analyses I am running so far is ancestral range estimation which implemented in R package BioGeoBEARS, and still expanding it to get better and robust result. Aside from that, I have been using a wide range of phylogenetic-related programs and species delimitations such as MAFFT, IQTREE, MrBAYES, BEAST, BPP, etc which are forked on this page for easy access as future references. Future excitement for me, personally, including bioinformatics analysis that will be stored in this page.  
 <br/>
 
 
