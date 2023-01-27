@@ -5,12 +5,12 @@ I just graduated from my PhD program (yayy) last June, 2022. Currently navigatin
 <br />
 
 <br />
-However, I am still a learner, willing to learn about everything, trying to keep up with the latest advance statistical analyses and methodology in sciences (...the struggle is real!). I am a self-taught on the data analyses and utilized this GitHub platform to stored all related packages and all related data analyses programs I use. One of my favorite analyses I am running so far is ancestral range estimation which implemented in R package BioGeoBEARS, and still expanding it to get better and robust result. Aside from that, I have been using a wide range of phylogenetic-related programs and species delimitations such as MAFFT, IQTREE, MrBAYES, BEAST, BPP, etc which are forked on this page for easy access as future references. Future excitement for me, personally, including bioinformatics analysis that will be stored in this page.  
+However, I am still a learner, willing to learn about everything, trying to keep up with the latest advance statistical analyses and methodology in sciences (...the struggle is real!). I am a self-taught on the data analyses and utilized this GitHub platform to stored all related packages and all related data analyses programs I use. One of my favorite analyses I am running so far is ancestral range estimation which implemented in R package BioGeoBEARS, and still expanding it to get better and robust result. Aside from that, I have been using a wide range of phylogenetic-related programs and species delimitations such as MAFFT, IQTREE, MrBAYES, BEAST, BPP, etc which are forked on this page for an easy access as future references. Future excitement for me, personally, including bioinformatics analysis that will be stored in this page.  
 <br/>
 
 
 <br />
-As a side note, I am a proud field biologist; spending most of the time in the field collecting data in the caves and karsts. My field sites covers underground habitat across Southern China till Southeast Asia and I never get tired of it. Future ambitious plan including field sampling in archipelagoes around Asia including my home country Indonesia and expecting to hop around the Philippines too. The story in the field temporarily available here: https://chorneliaa.wixsite.com/cavebats, as I am still trying to coding my webpage from scratch at the moment \^.^/
+As a side note, I am a proud field biologist; spending most of the time in the field collecting data in the caves and karsts. My field sites covers underground habitat across Southern China till Southeast Asia. Future ambitious plan including field sampling in archipelagoes around Asia including my home country, Indonesia and expecting to hop around the Philippines too. The story in the field temporarily available here: https://chorneliaa.wixsite.com/cavebats, as I am still trying to coding my webpage from scratch at the moment \^.^/
 <br />
 
 <br />
