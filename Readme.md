@@ -9,12 +9,12 @@ I am a postdoc in the School of Biological Sciences, at the University of Hong K
 Besides laboratory and computer work, I enjoy caving and being a caver, and I love the activities in subterranean habitats. My hobby of exploring and adventuring in underground habitats has helped me enjoy my field research activities. Being a biologist ideally should have a combination of field + lab + data analysis skillsets. Therefore, I always try to improve my skillsets in all aspects and hone my skills. I am happy to share everything I learned here, and the story in the field will be available soon on my webpage! (still under development, please wait). 🦇🦇🦇
 
 
-Get in touch!! `chorneliaa@gmail.com` or `ada77cho@hku.hk`
+📧 Get in touch!! `chorneliaa@gmail.com` or `ada77cho@hku.hk`
 
-Check out some of my published works : [Ada's ResearchGate](https://www.researchgate.net/profile/Ada-Chornelia) and [Ada's Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=DRDqstQAAAAJ)
+📑 Check out some of my published works : [Ada's ResearchGate](https://www.researchgate.net/profile/Ada-Chornelia) and [Ada's Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=DRDqstQAAAAJ)
 
 
-Cheers!
+Cheers! 
 
 
 Ada.
