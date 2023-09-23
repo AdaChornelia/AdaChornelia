@@ -29,7 +29,7 @@ Ada.
 > **One day or Day One, you decide**
 >
 > 
-> Be Brace Enough to be Bad at Something New
+> **Be Brave Enough to be Bad at Something New**
 
 
 
