@@ -24,7 +24,12 @@ Ada.
 > 
 > 
 > 🐸 *SEE THE GOOD IN EVERY SITUATION* 🐸
-
+>
+> 
+> **One day or Day One, you decide**
+>
+> 
+> Be Brace Enough to be Bad at Something New
 
 
 
