@@ -20,7 +20,7 @@ Cheers!
 Ada.
 
 🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸
-> ##### **The bad news is: time flies. The good news is: you are the pilot**
+> ##### **The bad news is that time flies. The good news is that you are the pilot**
 > 
 > 
 > ##### **SEE THE GOOD IN EVERY SITUATION**
@@ -31,5 +31,5 @@ Ada.
 > 
 > ##### **Be Brave Enough to be Bad at Something New**
 
-
+🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸
 
