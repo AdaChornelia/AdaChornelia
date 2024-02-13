@@ -14,7 +14,7 @@ Besides laboratory and computer work, I enjoy caving and being a caver, and I lo
 
 📑 Check out some of my published works : [Ada's ResearchGate](https://www.researchgate.net/profile/Ada-Chornelia) and [Ada's Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=DRDqstQAAAAJ)
 
-![IMG_2933](https://github.com/AdaChornelia/AdaChornelia/blob/main/IMG_2933.jpeg)
+![DSCF3168.jpeg](https://github.com/AdaChornelia/AdaChornelia/blob/main/DSCF3168.jpeg)
 
 Cheers! 
 
