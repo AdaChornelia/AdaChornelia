@@ -9,7 +9,7 @@ I am a [postdoc](https://www.biosch.hku.hk/postdoctoral-scholars/) in the [Schoo
 Besides laboratory and computer work, I enjoy caving and being a caver, and I love the activities in subterranean habitats. My hobby of exploring and adventuring in underground habitats has helped me enjoy my field research activities. Being a biologist ideally should have a combination of field + lab + data analysis skillsets. Therefore, I always try to improve my skillsets in all aspects and hone my skills. I am happy to share everything I learned here, and the story in the field will be available soon on my webpage! (still under development, please wait).
 
 ### 🦇 Skillsets
-I am a learner, always try to learn new things and did not afraid to explore new things (i.e., analysis, concepts, taxa groups, other biological fields). My undergraduate thesis focused on studying the genetics population of Diadem's roundleaf bats (*Hipposideros diadema*) 
+I am a learner, always try to learn new things and did not afraid to explore new things (i.e., analysis, concepts, taxa groups, other biological fields). My undergraduate thesis focused on studying the genetics population and karyotype (mapping the metaphase chromosomes) of Diadem's roundleaf bats (*Hipposideros diadema*). 
 
 
 ### 🦇 Contact
