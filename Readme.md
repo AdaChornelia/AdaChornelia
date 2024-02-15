@@ -25,6 +25,7 @@ Following the completion of my doctorate, I jumped right into a postdoctoral pos
 
 ![DSCF3168.jpeg](https://github.com/AdaChornelia/AdaChornelia/blob/main/DSCF3168.jpeg)
 
+Figure 1. Emergence roosts of *Chaerophon plicata* in Thailand (photo: Ada Chornelia)
 Cheers! 
 
 
