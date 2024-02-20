@@ -15,7 +15,7 @@ My undergraduate thesis revolved around studying the genetics population and kar
 
 For my master's thesis, I had the chance to work in a biomolecular lab, where I explored the phylogenetic relationship of Hipposideridae in Southeast Asia. I actively participated in various projects, grants, workshops, and courses, expanding my skill set even further. My passion for learning led me to China for my PhD degree, where I focused on the systematics and evolution of bats. I broadened my fieldwork sites to Southeast Asia and South China, honed my skills in bioacoustics, started learning coding, and enhanced my analytical abilities for evolutionary studies. I am a proud self-taught student, although it took me a bit longer to complete my degree.
 
-Following the completion of my doctorate, I jumped right into a postdoctoral position, where I currently investigate bat movements using stable isotopes. This opportunity has allowed me to continue building on the skills I've acquired throughout my academic journey. However, my thirst for knowledge is insatiable, and I'm always eager to learn more from anyone who can contribute to my growth. So, let's keep the learning journey going! :)
+Following the completion of my doctorate, I jumped right into a postdoctoral position in Hughes's Lab (which is also my Ph.D. supervisor), where I currently investigate bat movements using stable isotopes. This opportunity has allowed me to continue building on the skills I've acquired throughout my academic journey. However, my thirst for knowledge is insatiable, and I'm always eager to learn more from anyone who can contribute to my growth. So, let's keep the learning journey going! :)
 
 
 ### 🦇 Contact
