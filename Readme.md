@@ -8,8 +8,9 @@ I am a [postdoc](https://www.biosch.hku.hk/postdoctoral-scholars/) in the [Schoo
 
 Besides laboratory and computer work, I enjoy caving and being a caver, and I love the activities in subterranean habitats. My hobby of exploring and adventuring in underground habitats has helped me enjoy my field research activities. Ideally, a biologist should have a combination of field + lab + data analysis skillsets. Therefore, I always try to improve my skillsets in all aspects and hone my skills. I am happy to share everything I learned here, and the story in the field will be available soon on my webpage! (still under development, please wait). As someone passionate about biology, I believe staying up-to-date with the latest research, methodologies, and analytical approaches is crucial for personal and professional growth. It helps me broaden my knowledge and deepen my understanding of various areas of interest. 
 
-Following the completion of my doctorate, I jumped right into a postdoctoral position in Hughes's Lab (which is also my Ph.D. supervisor), where I currently investigate bat movements using stable isotopes. In general, I am identifying the pattern of bats movement in Asia continent based on the isotope signature recoreded in the bats hair
+Following the completion of my doctorate, I jumped right into a postdoctoral position in Hughes's Lab (which is also my Ph.D. supervisor), where I currently investigate bat movements using stable isotopes. In general, I am identifying the pattern of bats movement in Asia continent based on the isotope signature recorded in the bats hair, and I also start working in multiple other exciting bat project! 
 
+Do what you love and love what you do~
 
 ### 🦇 Contact
 📧 Get in touch!! `chorneliaa@gmail.com` or `ada77cho@hku.hk`
