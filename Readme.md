@@ -19,7 +19,7 @@ After completing my doctorate, I immediately began a postdoctoral position in Hu
 
 ![DSCF3168.jpeg](https://github.com/AdaChornelia/AdaChornelia/blob/main/DSCF3168.jpeg)
 
-*Chaerophon plicata* in Thailand (photo: Ada Chornelia)
+*Mops plicatus*, Wrinkle-lipped free-tailed bat in Thailand (photo: Ada Chornelia)
 
 Cheers! 
 
