@@ -10,7 +10,7 @@ Besides laboratory and computer work, I enjoy caving and being a caver, and I lo
 
 After completing my doctorate, I immediately began a postdoctoral position in Hughes's Lab in HKU. I am currently investigating bat movements using stable isotopes. Specifically, I am identifying movement patterns of bats across the Asian continent based on isotope signatures recorded in their hair. Additionally, I have started working on several other exciting bat projects!
 
-Do what you love and love what you do~
+
 
 ### 🦇 Contact
 📧 Get in touch!! `chorneliaa@gmail.com` or `ada77cho@hku.hk`
