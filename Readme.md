@@ -15,7 +15,7 @@ I am open for collaboration, so let's get in touch!
 ### 🦇 Contact
 📧 Get in touch!! `chorneliaa@gmail.com` or `ada77cho@hku.hk`
 
-I just started writing a blog [Ada's Blog](https://chorneliablog.com/), it's a learning curve-for a non-scientific writing exercise, please have a look and I am happy to receive feedback =;)
+💻 I just started writing a blog [Ada's Blog](https://chorneliablog.com/), it's a learning curve-for a non-scientific writing exercise, please have a look and I am happy to receive feedback 😏😙
 
 📑 Check out some of my published works : [Ada's ResearchGate](https://www.researchgate.net/profile/Ada-Chornelia) and [Ada's Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=DRDqstQAAAAJ)
 
