@@ -1,4 +1,4 @@
-# Hello there, beautiful people! 👊😏
+# Hello there, beautiful species! 👊😏
 
 ## Welcome to my happy place!!
 
