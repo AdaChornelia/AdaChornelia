@@ -12,7 +12,7 @@ I enjoy caving and exploring underground habitats, which is really helpful for m
 My work encompasses an interdisciplinary approach, integrating multidisciplinary including taxonomy and systematics, field sampling, taxonomic identification, caving, bioacoustics, phylogenetics, molecular dating, trait analysis, historical biogeography, ecology, and bat migration, as well as barcoding, metabarcoding, and isotopes.
 
 
-I'm eager to explore the possibilities or collaboration works, please feel free to reach out!
+I'm keen to explore the possibilities or collaboration works, please feel free to reach out!
 
 ### 🦇 Contact
 📧 Get in touch!! `chorneliaa@gmail.com` or `achornelia@unimelb.edu.au`
