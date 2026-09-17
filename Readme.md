@@ -9,7 +9,7 @@ I am currently a postdoc at [School of BioSciences](https://biosciences.unimelb.
 I enjoy caving and exploring underground habitats, which is really helpful for my field research. I believe that a biologist should have skills in fieldwork, lab work, and data analysis, so I will continually try to improve in all areas. I look forward to sharing what I've learned, and my field story will be available soon on my webpage! (the website is still under construction, please wait). 
 
 ### 🦇 Expertise
-My work encompasses an interdisciplinary approach, integrating multidisciplinary including taxonomy and systematics, field sampling, taxonomic identification, caving, bioacoustics, phylogenetics, molecular dating, trait analysis, historical biogeography, ecology, and bat migration, as well as barcoding, metabarcoding, and isotopes.
+My work encompasses an interdisciplinary approach, integrating multidisciplinary including taxonomy and systematics, field sampling, taxonomic identification, caving, bioacoustics, phylogenetics, molecular dating, trait analysis, historical biogeography, ecology, and bat migration, as well as barcoding, metabarcoding, and isotopes. I am a great user of multiple programs that support my research, i.e., BatSounds, Image J, Bioinformatics program-MAFFT, IQ-TREE, MrBayes, BPP, BEAST, R and its packages (BioGeoBEARS, DADA2, QIIME, Phyloseq, phytool, isorix etc), and multiple NGS sequencing pipelines
 
 
 I'm keen to explore the possibilities or collaboration works, please feel free to reach out!
