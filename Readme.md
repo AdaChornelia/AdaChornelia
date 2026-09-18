@@ -1,4 +1,4 @@
-# Hello there, beautiful species! 👊😏
+# Hello there! 👊😏
 
 ## Welcome to my happy place!!
 
@@ -9,13 +9,15 @@ I am currently a postdoc at [School of BioSciences](https://biosciences.unimelb.
 I enjoy caving and exploring underground habitats, which is really helpful for my field research. I believe that a biologist should have skills in fieldwork, lab work, and data analysis, so I will continually try to improve in all areas. I look forward to sharing what I've learned, and my field story will be available soon on my webpage! (the website is still under construction, please wait). 
 
 ### 🦇 Expertise
-My work encompasses an interdisciplinary approach, integrating multidisciplinary including taxonomy and systematics, field sampling, taxonomic identification, caving, bioacoustics, phylogenetics, molecular dating, trait analysis, historical biogeography, ecology, and bat migration, as well as barcoding, metabarcoding, and isotopes. I am a proud user of multiple programs that support my analysis, i.e., BatSounds, Image J, Bioinformatics program-MAFFT, IQ-TREE, MrBayes, BPP, BEAST, R language and many of its related packages (BioGeoBEARS, DADA2, QIIME, Phyloseq, phytool, isorix, spaMM, machine learning, random forest etc-etc), and multiple Next Generation Sequencing pipelines
+My work encompasses an interdisciplinary approach, integrating multidisciplinary including taxonomy and systematics, field sampling, taxonomic identification, caving, bioacoustics, phylogenetics, molecular dating, trait analysis, historical biogeography, ecology, and bat migration, as well as barcoding, metabarcoding, and isotopes. 
+
+I gratefully acknowledge the use of multiple software programs and analytical tools that support my research and data analysis, including BatSounds, ImageJ, MAFFT, IQ-TREE, MrBayes, BPP, BEAST, R and its associated packages, such as BioGeooBEARS, DADA2, QIIME2, Phyloseq, phytools, isoriX, spaMM, machine learning tools, random forest approaches and multiple next-generation sequencing pipelines.
 
 
 I'm keen to explore the possibilities or collaboration works, please feel free to reach out!
 
 ### 🦇 Contact
-📧 Get in touch!! `chorneliaa@gmail.com` or `achornelia@unimelb.edu.au`
+📧 Get in touch!! `chorneliaa@gmail.com` or `ada.chornelia@unimelb.edu.au`
 
 📑 Check out some of my published works : [Ada's ResearchGate](https://www.researchgate.net/profile/Ada-Chornelia) and [Ada's Google Scholar](https://scholar.google.com.hk/citations?hl=en&user=DRDqstQAAAAJ)
 
@@ -30,7 +32,7 @@ Cheers!
 
 Ada.
 
-### 🦇 Some favorite wisdom for y'all, beautiful being!
+### 🦇 Some favorite wisdom for y'all~
 
 ```
 🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸
