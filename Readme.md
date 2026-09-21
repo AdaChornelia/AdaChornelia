@@ -11,10 +11,10 @@ I enjoy caving and exploring underground habitats, which is really helpful for m
 ### 🦇 Expertise
 My work encompasses an interdisciplinary approach, integrating multidisciplinary including taxonomy and systematics, field sampling, taxonomic identification, caving, bioacoustics, phylogenetics, molecular dating, trait analysis, historical biogeography, ecology, and bat migration, as well as barcoding, metabarcoding, and isotopes. 
 
-I gratefully acknowledge the use of multiple software programs and analytical tools that support my research and data analysis, including BatSounds, ImageJ, MAFFT, IQ-TREE, MrBayes, BPP, BEAST, R and its associated packages, such as BioGeooBEARS, DADA2, QIIME2, Phyloseq, phytools, isoriX, spaMM, machine learning tools, random forest approaches and multiple next-generation sequencing pipelines.
+I gratefully acknowledge the use of multiple software programs and analytical tools that support my research and data analysis, including BatSounds, ImageJ, MAFFT, IQ-TREE, MrBayes, BPP, BEAST, R and its associated packages, such as BioGeoBEARS, DADA2, QIIME2, Phyloseq, phytools, isoriX, spaMM, machine learning tools, random forest approaches and multiple next-generation sequencing pipelines.
 
 
-I'm keen to explore the possibilities or collaboration works, please feel free to reach out!
+I'm keen to explore the possibilities for collaboration works, please feel free to reach out!
 
 ### 🦇 Contact
 📧 Get in touch!! `chorneliaa@gmail.com` or `ada.chornelia@unimelb.edu.au`
@@ -34,7 +34,7 @@ Cheers!
 
 Ada.
 
-### 🦇 Some favorite wisdom for y'all~
+### 🦇 Some favorite wisdom for y'all, beautiful being! 😘
 
 ```
 🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸
