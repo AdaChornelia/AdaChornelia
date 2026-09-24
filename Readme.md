@@ -38,11 +38,11 @@ Ada.
 
 ```
 🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸
+✨ Start your day with Bismillah, and end it with Alhamdulillah ✨
 🤍 The bad news is that time flies. The good news is that you are the pilot
 ✅ SEE THE GOOD IN EVERY SITUATION
 💙 One day or Day One, you decide
 ✅ Be Brave Enough to be Bad at Something New
-
-✨ Whatever happens-start your day with Bismillah, and end it with Alhamdulillah ✨
+💙 Be grateful, always
 🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸
 ```
